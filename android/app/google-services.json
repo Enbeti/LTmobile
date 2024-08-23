@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903874522895",
+    "project_id": "authentication-7cb42",
+    "storage_bucket": "authentication-7cb42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903874522895:android:f5f13cafea1850c376987a",
+        "android_client_info": {
+          "package_name": "com.example.bai_tap_lon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuaR69efBV2BM9RE7m-8TFpy4b0ReJVGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
